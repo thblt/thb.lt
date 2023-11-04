@@ -1,0 +1,3 @@
+#!/bin/sh
+# This will delete everything on the server that's not in the local public folder
+hugo && rsync -avz --delete public/ k9.thb.lt:/var/www/thb.lt
