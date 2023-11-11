@@ -1,10 +1,28 @@
 ---
 title: Hello, world!
 cascade:
-  type: blog
+  type: post
 ---
 
 Restarting this website, mostly to put a bunch of stuff that don't
-have a place elsewhere.  Please don't mind the mess.
+have a place elsewhere.  This is meant as a place to collect a few
+things I've done, among which you may be interested in:
 
-This is my personal website, which you can also browse in French.
+ - [Write Yourself a Git!](https://wyag.thb.lt/), a learn-by-doing git
+   tutorial where you learn git fundamentals by reimplementing git.
+ - [`sway.el`](https://github.com/thblt/sway.el), an Emacs
+   communication library to the Sway window manager.
+ - [`pgp-words`](https://github.com/thblt/pgp-words.rs/), a Rust
+   implementation of the PGP Word List.
+ - More anecdotal things are on my
+   [GitHub](https://github.com/thblt/sway.el).
+ - [My PGP key can be found here](/pgp/).  I mostly use this for
+   signing commits and authenticating to SSH servers.  If you need to
+   give me access to some server, just authorize all the `A` subkeys.
+   There are encryption subkeys as well, so I guess you can send me
+   encrypted e-mail, too, if you feel like it.  If you want to
+   doublecheck, its fingerprint is
+   `D2A2F0A1E7A85E6FB711DEE563A44817A52EAB7B` (in pgp-words: *standard
+   Pacific unearth outfielder / transit paramount eyeglass hemisphere
+   / seabird Babylon tactics travesty / flatfoot Pandora deadbolt
+   bookseller / reindeer coherence rhythm inferno*)
