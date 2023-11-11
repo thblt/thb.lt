@@ -15,7 +15,7 @@ things I've done, among which you may be interested in:
  - [`pgp-words`](https://github.com/thblt/pgp-words.rs/), a Rust
    implementation of the PGP Word List.
  - More anecdotal things are on my
-   [GitHub](https://github.com/thblt/sway.el).
+   [GitHub](https://github.com/thblt/).
  - [My PGP key can be found here](/pgp/).  I mostly use this for
    signing commits and authenticating to SSH servers.  If you need to
    give me access to some server, just authorize all the `A` subkeys.
