@@ -31,6 +31,10 @@ cascade:
    crate for writing keyboard firmwares, which I have yet to
    experiment.
 
+## PCB
+
+ - [Simple introduction to on-board MCUs](https://ohmbedded.com/keyboard-design-part-6-on-board-mcu-schematic-capture/)
+
 ## Other lists
 
  - A [very comprehensive list of
