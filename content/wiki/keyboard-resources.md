@@ -48,6 +48,29 @@ cascade:
  - JLCPCB for PCBs.
  - PCBWay, also PCBs, a bit more expensive.
 
+## Notes on T[R[R]]S cables
+
+Which pins are shorted by plugs with less than four connectors.
+
+Pins are, from tip to sleeve: T - R1 - R2 - S
+
+ - In a TRS male connector, R2 == S (R2 is shorted with S)
+ - In a TS male connector, R1 == R2 == S (R2 is shorted with S)
+
+If you want maximum compatibility, if you need three wires, use T, R1 and S.  If you need two, use T and S.
+
+```
+╭─╮ ╭─╮ ╭─╮ T
+│ │ │ │ │ │
+┝━┥ ┝━┥ ┝━┥ R1
+┝━┥ ┝━┥ │ │ R2
+┝━┥ │ │ │ │ S
+░▒▓ ░▒▓ ░▒▓
+░▒▓ ░▒▓ ░▒▓
+░▒▓ ░▒▓ ░▒▓
+ ▀   ▀   ▀
+```
+
 ## Hotswap sockets
 
 ### Millmax
