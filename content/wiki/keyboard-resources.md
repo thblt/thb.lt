@@ -68,7 +68,10 @@ If you want maximum compatibility, if you need three wires, use T, R1 and S.  If
 ░▒▓ ░▒▓ ░▒▓
 ░▒▓ ░▒▓ ░▒▓
 ░▒▓ ░▒▓ ░▒▓
- ▀   ▀   ▀
+ █   █   █
+ ┃   ┃   ┗━ TS
+ ┃   ┗━━━━━ TRS
+ ┗━━━━━━━━━ TRRS
 ```
 
 ## Hotswap sockets
