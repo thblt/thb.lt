@@ -1,0 +1,3 @@
+To get modules:
+
+$ hugo mod get

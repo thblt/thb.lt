@@ -1,5 +1,5 @@
 ---
-title: Textes (en français)
+title: Various notes
 cascade:
   type: docs
 ---

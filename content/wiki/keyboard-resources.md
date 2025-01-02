@@ -44,7 +44,7 @@ cascade:
 
  - LaserBoost (Barcelona, Spain) for laser cutting, including metal.
  - Sculpteo (France and others) for laser cutting (but not metal) and
-   3D printing.
+   3D printing.  Be careful that minimum order is 50€.
  - JLCPCB for PCBs.
  - PCBWay, also PCBs, a bit more expensive.
 
@@ -57,21 +57,22 @@ Pins are, from tip to sleeve: T - R1 - R2 - S
  - In a TRS male connector, R2 == S (R2 is shorted with S)
  - In a TS male connector, R1 == R2 == S (R2 is shorted with S)
 
-If you want maximum compatibility, if you need three wires, use T, R1 and S.  If you need two, use T and S.
+For maximum cable compatibility, if you need three wires, use T, R1
+and S.  If you need two, use T and S.
 
 ```
-╭─╮ ╭─╮ ╭─╮ T
-│ │ │ │ │ │
-┝━┥ ┝━┥ ┝━┥ R1
-┝━┥ ┝━┥ │ │ R2
-┝━┥ │ │ │ │ S
-░▒▓ ░▒▓ ░▒▓
-░▒▓ ░▒▓ ░▒▓
-░▒▓ ░▒▓ ░▒▓
- █   █   █
- ┃   ┃   ┗━ TS
- ┃   ┗━━━━━ TRS
- ┗━━━━━━━━━ TRRS
+┈╭─╮┈╭─╮┈╭─╮┈T
+ │ │ │ │ │ │
+┈┝━┥┈┝━┥┈┝━┥┈R1
+┈┝━┥┈┝━┥┈│ │┈R2
+┈┝━┥┈│ │┈│ │┈S
+ ░▒▓ ░▒▓ ░▒▓
+ ░▒▓ ░▒▓ ░▒▓
+ ░▒▓ ░▒▓ ░▒▓
+  █   █   █
+  ┃   ┃   ┗━ TS
+  ┃   ┗━━━━━ TRS
+  ┗━━━━━━━━━ TRRS
 ```
 
 ## Hotswap sockets

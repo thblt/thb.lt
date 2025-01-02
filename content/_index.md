@@ -26,7 +26,9 @@ things I've done, among which you may be interested in:
    Pacific unearth outfielder / transit paramount eyeglass hemisphere
    / seabird Babylon tactics travesty / flatfoot Pandora deadbolt
    bookseller / reindeer coherence rhythm inferno*)
+ - Notes and drafts, of probably very limited interest, can be found
+   in [this page](/wiki).
 
-I can be found on [Bluesky](https://bsky.app/profile/thblt.bsky.social)
-and
-<a rel="me" href="https://toad.social/@thblt">Mastodon</a>.
+I can be found on
+[Bluesky](https://bsky.app/profile/thblt.bsky.social) and <a rel="me"
+href="https://toad.social/@thblt">Mastodon</a>.
