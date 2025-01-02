@@ -117,3 +117,28 @@ fn main() {
     test.into_iter().for_each(|who| println!("Hello, {who}!"));
 }
 ```
+
+### const Generics
+
+Stupid example:
+
+``` rust
+fn take<const N: usize>(s: &str) -> &str {
+    &s[0..N]
+}
+
+fn main() {
+
+    let func = take::<7>;
+    let test = "Gandalf the Grey";
+    println!("See? {}", func(test));
+
+}
+```
+
+## Types
+
+### Associated constants
+
+Types and traits can have associated constants.  See the
+[reference](https://doc.rust-lang.org/reference/items/associated-items.html#associated-constants)
