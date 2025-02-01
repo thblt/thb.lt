@@ -16,12 +16,13 @@ things I've done, among which you may be interested in:
    implementation of the PGP Word List.
  - More anecdotal things are on my
    [GitHub](https://github.com/thblt/).
- - [My PGP key can be found here](/pgp/).  I mostly use this for
-   signing commits and authenticating to SSH servers.  If you need to
-   give me access to some server, just authorize all the `A` subkeys.
-   There are encryption subkeys as well, so I guess you can send me
-   encrypted e-mail, too, if you feel like it.  If you want to
-   doublecheck, its fingerprint is
+ - [My PGP key can be downloaded from
+   here](https://keys.openpgp.org/vks/v1/by-fingerprint/D2A2F0A1E7A85E6FB711DEE563A44817A52EAB7B).
+   I mostly use this for signing commits and authenticating to SSH
+   servers.  If you need to give me access to some server, just
+   authorize all the `A` subkeys.  There are encryption subkeys as
+   well, so I guess you can send me encrypted e-mail if that's your
+   thing.  If you want to doublecheck, its fingerprint is
    `D2A2F0A1E7A85E6FB711DEE563A44817A52EAB7B` (in pgp-words: *standard
    Pacific unearth outfielder / transit paramount eyeglass hemisphere
    / seabird Babylon tactics travesty / flatfoot Pandora deadbolt
