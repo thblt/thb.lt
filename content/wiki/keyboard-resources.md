@@ -87,3 +87,10 @@ Copy-pasted from [keep.io](https://keeb.io/products/mill-max-hotswap-sockets):
 >   Easier to solder because of longer leg, but taller lip that pops up above the PCB
 > - 3305-1: Gold-plated sockets (3305-1-15-15-47-27-10-0)
 >   Best of both worlds! Easier to solder with the longer legs and is more flush with the top of the PCB with a lip than even more shorter than the 7305-0
+
+## Keycaps
+
+### Custom printed keycaps
+
+ - [Yuzu](https://yuzukeycaps.com/) (about $100 for a full 105 key, Cherry or KAM profile, PBT+dye sublimation)
+ - [fkcaps](https://fkcaps.com/)
